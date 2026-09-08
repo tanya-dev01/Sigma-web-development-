@@ -1,5 +1,5 @@
 # Sigma-web-development-
 This is my first repository.
 <br>
-Author - Tanya Sharma (shubman)
+Author - Tanya Sharma
 
